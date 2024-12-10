@@ -23,10 +23,12 @@ High-resolution data suitable for ARIMA, SARIMA, LSTM, or Prophet models to fore
 
 Potential Use Cases:
 Forecasting Peak Load Demand: Ideal for predicting future energy requirements based on historical data and weather patterns.
+
 Weather Impact Analysis: Study how temperature and humidity influence energy consumption trends.
+
 Energy Planning and Optimization: Support decision-making for energy resource management and peak load handling.
 
 Note:
 The dataset is private and curated for research purposes.
-Attribution to SLDC Delhi (State Load Dispatch Center, Delhi) is required if used for academic or publication purposes.
+Attribution to **SLDC Delhi (State Load Dispatch Center, Delhi)** is required if used for academic or publication purposes.
 Feel free to use this data for forecasting models and share your insights or predictions!
