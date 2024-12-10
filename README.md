@@ -4,29 +4,28 @@ The data is ideal for time series analysis, particularly peak load forecasting, 
 
 Key Features:
 
-Year, Month, Date: Structured date components to facilitate time-based analysis.
+**Year, Month, Date:** Structured date components to facilitate time-based analysis.
 
-Max.Temp. (°C): The highest recorded temperature for each day.
+**Max.Temp. (°C):** The highest recorded temperature for each day.
 
-Min.Temp. (°C): The lowest recorded temperature for each day.
+**Min.Temp. (°C):** The lowest recorded temperature for each day.
 
-Relative Humidity (Morning): Recorded at 0830 IST.
+**Relative Humidity (Morning):** Recorded at 0830 IST.
 
-Relative Humidity (Evening): Recorded at 1730 IST.
+**Relative Humidity (Evening):** Recorded at 1730 IST.
 
-Load (MW): Daily peak energy load in megawatts (MW).
+**Load (MW):** Daily peak energy load in megawatts (MW).
 
 Data Highlights:
-Covers three years and four months of data, capturing both seasonal variations and annual trends in energy demand.
-Includes the influence of weather conditions (temperature and humidity) on energy consumption.
-High-resolution data suitable for ARIMA, SARIMA, LSTM, or Prophet models to forecast energy demand.
+ Covers three years and four months of data, capturing both seasonal variations and annual trends in energy demand.
+ Includes the influence of weather conditions (temperature and humidity) on energy consumption.
+ High-resolution data suitable for ARIMA, SARIMA, LSTM, or Prophet models to forecast energy demand.
 
 Potential Use Cases:
-Forecasting Peak Load Demand: Ideal for predicting future energy requirements based on historical data and weather patterns.
 
-Weather Impact Analysis: Study how temperature and humidity influence energy consumption trends.
-
-Energy Planning and Optimization: Support decision-making for energy resource management and peak load handling.
+ Forecasting Peak Load Demand: Ideal for predicting future energy requirements based on historical data and weather patterns.
+ Weather Impact Analysis: Study how temperature and humidity influence energy consumption trends.
+ Energy Planning and Optimization: Support decision-making for energy resource management and peak load handling.
 
 Note:
 The dataset is private and curated for research purposes.
